@@ -1,0 +1,17 @@
+WGS PIPELINE SUMMARY REPORT
+==================================================
+
+ALIGNMENT
+  Total reads:           2,818,718
+  Mapped reads:          2,589,845
+  Alignment rate:        91.88%
+
+COVERAGE
+  Mean depth:            77.4x
+  Genome breadth covered:99.850%
+
+VARIANTS
+  Total called (raw):    35
+  Total (QUAL>=20):      31
+  SNPs:                  18
+  INDELs:                13

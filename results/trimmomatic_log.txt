@@ -1,0 +1,6 @@
+TrimmomaticPE: Started with arguments:
+ -threads 2 -phred33 raw_data/SRR2584863_1.fastq.gz raw_data/SRR2584863_2.fastq.gz trimmed/SRR2584863_1_paired.fastq.gz trimmed/SRR2584863_1_unpaired.fastq.gz trimmed/SRR2584863_2_paired.fastq.gz trimmed/SRR2584863_2_unpaired.fastq.gz ILLUMINACLIP:/usr/share/trimmomatic/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 1553259 Both Surviving: 1409359 (90.74%) Forward Only Surviving: 133938 (8.62%) Reverse Only Surviving: 6445 (0.41%) Dropped: 3517 (0.23%)
+TrimmomaticPE: Completed successfully

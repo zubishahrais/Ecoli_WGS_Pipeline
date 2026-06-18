@@ -1,0 +1,4 @@
+Total variants called (pre-filter): 35
+Total variants (QUAL>=20):           31
+SNPs (QUAL>=20):                     18
+INDELs (QUAL>=20):                   13

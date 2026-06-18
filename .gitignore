@@ -1,0 +1,11 @@
+raw_data/*.fastq.gz
+trimmed/*.fastq.gz
+reference/*.fasta
+reference/*index*
+aligned/*.bam
+aligned/*.bam.bai
+variants/*.bcf
+results/fastqc_raw/
+results/fastqc_trimmed/
+results/per_base_depth.txt
+*.sam
